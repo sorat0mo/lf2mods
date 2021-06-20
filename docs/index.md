@@ -1,5 +1,5 @@
 ## LF2 Preservation Project
-## In memory of the good ol' days
+**In memory of the good ol' days**
 
 ### What is this?
 
@@ -26,7 +26,7 @@ I am sorry but I do not know where to start with foreign mods and I could only s
 
 I am sorry for that. Some versions have modified executable and could be hardened with UPX, that way tends to make them look malicious. Always do a scan with your antivirus before launching any executable files downloaded. Additionally, you can use Virus Total to scan for malicious behaviours.
 
-If you are still worried, you can run the game first under protection of Sandboxie. Then run only without protection after no malicious behaviour is observed.
+If you are still worried, you can run the game first under protection of [Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases/latest). Then run only without protection after no malicious behaviour is observed.
 
 ### How do I send you mods I have?
 
@@ -34,9 +34,9 @@ Please create an issue at this Github repo. Use the template LF2 Preservation Pr
 
 Please note that when you send me the mods:
 
-    You do not send malware.
-    You do not spam the issues
-    Make sure the mods you are sending are not already in the archive (otherwise it will just get rejected)
+- You do not send malware.
+- You do not spam the issues
+- Make sure the mods you are sending are not already in the archive (otherwise it will just get rejected)
 
 I will report any form of misconduct IMMEDIATELY to Github Support should you abuse my repo.
 
@@ -46,7 +46,7 @@ Most modifications contain only the modified files and require LF2 official vers
 on version v2.0a. Please refer to README files of each mods. Some mods already have LF2 files within.
 
 In addition to uploading mod files, I repackaged some of them to make file sizes smaller. In order to decompress 7z files, you will need a dedicated
-unarchive software like 7-zip
+unarchive software like [7-zip](https://7-zip.org/)
 
 > If your mod requires original files to work:
 Please copy and paste the mods file to LF2 official version folder and overwrite the content. Since LF2 is portable,
