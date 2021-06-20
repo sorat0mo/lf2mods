@@ -55,9 +55,17 @@ it is best using a copy of the LF2 folder, this way you can quickly copy multipl
 > To solve problems LF2 not loading:
 Check if you installed VC++ 2005 redist SP1. I included the redist install files in the Redists folder.
 
+### Why did you shutdown the site and used Github Pages to host the website now?
+
+I expected members from the LF2 family to be welcoming but I received negative feedbacks, and for the 1 month testing period I received 0 files so I deduced it won't get too much attention until maybe LF2 Empire shutsdown. To cut cost I switched to github pages which is free and open source.
+
 ### License and Persmissions
 
 Since these modifications are dated, the original authors cannot be contacted with ease. I uploaded these files to
 preserve the creative works these people made, and to cherish the joyous moments LF2 have brought us in the early days
 of the Internet. Because I have not acquired the permission from (most) original authors, please do note that these files may
 be taken down with written notice by the author.
+
+### Downloads
+
+https://e.pcloud.link/publink/show?code=kZeOGXZ3S7DML7ULkYKkKkBvWrtJmHiVkNy
